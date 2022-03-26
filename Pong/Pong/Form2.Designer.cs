@@ -148,7 +148,7 @@
             this.Controls.Add(this.ball);
             this.Controls.Add(this.playerCpu);
             this.Controls.Add(this.player1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Pong";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

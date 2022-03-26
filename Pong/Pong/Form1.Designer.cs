@@ -136,7 +136,7 @@
             this.Controls.Add(this.mainmenulogo2);
             this.Controls.Add(this.mainmenulogo3);
             this.Controls.Add(this.startgame);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "PongMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
