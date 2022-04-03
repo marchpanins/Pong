@@ -1,0 +1,12 @@
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\bin\Release\Pong.exe.config
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\bin\Release\Pong.exe
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\bin\Release\Pong.pdb
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.csproj.AssemblyReference.cache
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.csproj.SuggestedBindingRedirects.cache
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.PongMenu.resources
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.Pong.resources
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.Properties.Resources.resources
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.csproj.GenerateResource.cache
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.csproj.CoreCompileInputs.cache
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.exe
+D:\CODING\SKOLA\C#\Pong\Pong\Pong\obj\Release\Pong.pdb

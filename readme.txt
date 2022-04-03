@@ -1,0 +1,1 @@
+Es šo aplikāciju taisiju visual studio, lietojot C# un WinForms. Uz github es pushoju caur Git un command prompt.
